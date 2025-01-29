@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "GreenCraft",
-  description: "GreenCraft - Your eco-friendly companion",
+  description: "GreenCraft - Creaciones con materiales reciclables con ayuda de la IA",
 };
 
 export default function RootLayout({
